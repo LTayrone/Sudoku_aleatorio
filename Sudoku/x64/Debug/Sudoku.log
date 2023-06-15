@@ -1,0 +1,3 @@
+﻿  sudoku.cpp
+C:\Users\lucas\OneDrive\Área de Trabalho\C++\Sudoku\sudoku.cpp(103,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Sudoku.vcxproj -> C:\Users\lucas\OneDrive\Área de Trabalho\C++\Sudoku\x64\Debug\Sudoku.exe
